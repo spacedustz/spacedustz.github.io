@@ -45,7 +45,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/pics.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요, 신건우입니다.<br>
   저는 전혀 다른 직종에서 일을 하다가 우연히 국비지원 교육을 통해 2021년 3월에 IT를 접하게 되었고,<br>
@@ -107,14 +107,6 @@ content:
         icon: fab fa-github
         link: http://project-teatime-dev.s3-website.ap-northeast-2.amazonaws.com/
         caption: 2023.01 - 2023.02
-          #         link_text: Project Website
-          #        additional_links:
-          #          - title:  sproogen/modern-resume-theme
-          #            icon: fab fa-github
-          #            url: https://github.com/wonyongg/seb41_main_027
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           이젠 상담도 그룹으로 하자, 티타임.
         description: | # this will include new lines to allow paragraphs
@@ -157,7 +149,7 @@ content:
           지역 기반 반려인 소셜 디스커버리 & 돌봄 교환 서비스로 22년 초 강남지역에 첫 출시 후,<br>
           현재 수도권 전체 지역에 서비스를 제공하고 있으며, 초기 토스 & 페이스북 보다 높은 리텐션을 보여주고 있는 어플리케이션입니다.<br><br>
           
-          Kotlin & Spring Boot 기반으로 반려 커뮤니티 서비스의 전반적인 백엔드 파트의 기능 개발을 담당하고 있습니다.
+          Kotlin & Spring Boot 기반 반려 커뮤니티 서비스의 전반적인 백엔드 파트의 기능 개발을 담당하고 있습니다.
       - layout: top-middle
         title: 코드스테이츠 백엔드 부트캠프 41기
         caption: 2022.08 - 2023.02
