@@ -118,9 +118,9 @@ content:
           
           기본 구현을 끝낸 뒤 <strong>성능 최적화를 위해 코드 리팩터링을</strong>하는 도중
           <strong>N+1 문제</strong>등의 에러 상황이 발생하여,<br><br>
-          JPQL 쿼리 튜닝을 통한 해결,<br>
-          Fetch 전략 Eager/Lazy 중 상황에 맞는 Fetch 전략을 사용 및 Join Fetch를 이용한 프록시 객체의 처리,<br>
-          JPA의 OSIV 옵션을 false로 설정함으로 인한 성능 향상,<br>
+          
+          Fetch 전략 Eager/Lazy 중 상황에 맞는 Fetch 전략을 사용 및 Fetch Join을 이용한 쿼리 튜닝과 프록시 객체의 처리,<br>
+          JPA의 OSIV 옵션을 false로 설정하여 DB 커넥션 증가 방지로 인한 성능 향상,<br>
           엔티티간 불필요한 양방향 연관관계도 단방향으로 끊으면서 어플리케이션의 성능을 위한 리팩터링을 하였고<br>
           Linux 관련 실무를 접해본 제가 배포를 도맡아 어플리케이션 배포방법 등의 논의를 거쳐 Github Actions와 AWS를 이용해 파이프라인을 구축했습니다.
 
@@ -183,17 +183,17 @@ content:
   - title: Licenses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 리눅스마스터 1급 - (사)한국정보통신진흥협회 (22.06 취득)
-      <br>
-      - CKA (Certified Kubernetes Administrator) - Cloud Native Computing Foundation (22.02 취득)
-      <br>
-      - 정보처리기능사 - 한국산업인력공단 (21.10 취득)
-      <br>
-      - 정보기기운용기능사 - 한국산업인력공단 (21.09 취득)
-      <br>
-      - 리눅스마스터 2급 - (사)한국정보통신진흥협회 (21.07 취득)
-      <br>
-      - 네트워크관리사 2급 - 한국정보통신자격협회 (21.06 취득)
+      - [22.06 취득] 리눅스마스터 1급 - (사)한국정보통신진흥협회 
+      <br><br>
+      - [22.02 취득] CKA: Certified Kubernetes Administrator - Cloud Native Computing Foundation
+      <br><br>
+      - [21.10 취득] 정보처리기능사 - 한국산업인력공단
+      <br><br>
+      - [21.09 취득] 정보기기운용기능사 - 한국산업인력공단
+      <br><br>
+      - [21.07 취득] 리눅스마스터 2급 - (사)한국정보통신진흥협회
+      <br><br>
+      - [21.06 취득] 네트워크관리사 2급 - 한국정보통신자격협회
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
