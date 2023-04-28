@@ -93,11 +93,18 @@ content:
           <br><br>
           * <strong>Git & Github</strong> : Git을 통한 협업과 코드리뷰, 형상관리 등 기본적인 사용법을 숙지하고 있습니다.
           <br><br>
+          * <strong>Slack</<strong> : 어플리케이션 알림 서비스로 사용중입니다.
+          <br><br>
+          * <strong>Jira</strong> : 프로젝트 칸반보드로 사용중입니다.
+          <br><br>
+          * <strong>Notion</strong> : 각종 문서들을 노션에서 다루고 있습니다.
+          <br><br>
+          *<strong>NaverWorks & Workplace</<strong> : Workplace를 통한 근태관리, Naver Works를 통한 사내 팀원들과의 메신저 역할로 사용중입니다.
 
       - layout: left
         title: Frameworks
         description: | # this will include new lines to allow paragraphs
-          * <strong>Spring</strong> : Spring Boot를 베이스로 사용합니다.
+          * <strong>Spring</strong> : Spring Boot를 Base로 기능 개발에 사용합니다.
             - <strong>Spring MVC & Spring Data JPA</strong> : 기본적인 MVC 패턴과 Spring Boot기반의 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 메인으로 지속적인 학습중입니다.
             - <strong>Spring Security</strong> : Authentication & Authorization에 대한 이해와 토큰 기반 인증 방식인 JWT를 어플리케이션에 적용해보았습니다.
             - <strong>Spring Cloud Config</strong> : 면접 준비를 위한 디스코드 봇을 만들던 중 민감 정보인 토큰 값의 로컬관리 외의 방법을 찾다가 구축을 해보게 되었습니다.
