@@ -117,7 +117,7 @@ content:
       - layout: left
         title: Ops
         description: | # this will include new lines to allow paragraphs
-          * <strong>AWS</strong> : CI/CD 구축을 위한 CodePipeline & CodeDeploy & RDS & S3를 사용하여 파이프라인을 구축했습니다.
+          * <strong>AWS</strong> : EC2 & IAM & CodePipeline & CodeDeploy & RDS & S3 등의 서비스를 사용하여 CI/CD를 구축한 경험이 있습니다.
           <br><br>
           * <strong>Github Actions</strong> : Githhub Actions가 AWS S3에 빌드 결과물을 전송하면 S3가 이를 CodeDeploy에게 전달하여 EC2에 배포 및 실행하는 플로우로 CI/CD를 구축하였습니다.
           <br><br>
