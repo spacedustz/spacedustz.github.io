@@ -79,24 +79,51 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Backend
+        title: Languages
         description: | # this will include new lines to allow paragraphs
-          * <strong>Java</strong> : 부트캠프에서 본격적으로 배웠고 현재 주력으로 사용하고 있는 언어입니다. 객체 지향적인 코드 작성을 위해 지속적인 학습중입니다.
-          * <strong>Spring Boot</strong>, <strong>Spring MVC</strong>, <strong>Spring Data JPA</strong> : MVC 패턴과 Spring Boot기반의 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 메인으로 학습하였습니다.
-          * <strong>Spring Security</strong> : Authentication & Authorization에 대한 이해와 토큰 기반 인증 방식인 JWT를 어플리케이션에 적용해보았습니다.
-          * <strong>Spring Cloud Config</strong> : 면접 준비를 위한 디스코드 봇을 만들던 중 민감 정보인 토큰 값의 로컬관리 외의 방법을 찾다가 구축을 해보게 되었습니다.
-          * <strong>Spring Cloud Gateway</strong> : 마이크로 서비스 호출에 대한 ACL 적용과 트래픽 라우팅 경험 학습을 위한 API Gateway를 간단하게 구현해보았습니다.
+          * <strong>Kotlin</strong> : 현재 재직중인 곳에서 사용하고 있는 언어이며, 주력으로 사용하는 프로그래밍 언어입니다.
+          <br><br>
+          * <strong>Java</strong> : 백엔드 부트캠프에서 첫 프로그래밍 언어로 학습하였습니다. 객체 지향적인 코드 작성을 위해 지속적인 학습중입니다.
+          <br><br>
+          * <strong>Gradle</strong>, <strong>IntelliJ</strong> : IDE는 기본적으로 인텔리제이를 사용하며, Gradle 기반 프로젝트를 진행하였습니다.
+          <br><br>
+
+      - layout: left
+        title: Tools
+        description: | # this will include new lines to allow paragraphs
           * <strong>Gradle</strong>, <strong>IntelliJ</strong> : IDE는 기본적으로 인텔리제이를 사용하며, Gradle 기반 프로젝트를 진행하였습니다. (Maven 등의 사용경험이 없습니다.)
+          <br><br>
+          * <strong>Git & Github</strong> : Git을 통한 협업과 코드리뷰, 형상관리 등 기본적인 사용법을 숙지하고 있습니다.
+          <br><br>
+
+      - layout: left
+        title: Frameworks
+        description: | # this will include new lines to allow paragraphs
+          * <strong>Spring Boot</strong> : 기본적인 MVC 패턴과 Spring Boot기반의 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 메인으로 지속적인 학습중입니다.
+            - <strong>Spring Security</strong> : Authentication & Authorization에 대한 이해와 토큰 기반 인증 방식인 JWT를 어플리케이션에 적용해보았습니다.
+            - <strong>Spring Cloud Config</strong> : 면접 준비를 위한 디스코드 봇을 만들던 중 민감 정보인 토큰 값의 로컬관리 외의 방법을 찾다가 구축을 해보게 되었습니다.
+            - <strong>Spring Cloud Gateway</strong> : 마이크로 서비스 호출에 대한 ACL 적용과 트래픽 라우팅 경험 학습을 위한 API Gateway를 간단하게 구현해보았습니다.
+            - <strong>OAuth2</strong> : Third-Party API에 사용자 인증 처리를 위임함으로써 서버의 리소스를 줄이며 간단한 인증 처리를 구현을 해보았습니다.
+          <br><br>
+
       - layout: left
         title: DataBase
         description: | # this will include new lines to allow paragraphs
-          * <strong>MySQL</strong> : RDBMS에 대해 기본적인 내용을 알고 있습니다. 메인프로젝트에서 사용했습니다.
+          * <strong>MySQL</strong> : RDBMS에 대해 기본적인 내용을 알고 있습니다.<br>
+          Spring Data JPA에서 QueryDSL을 이용한 JPQL 쿼리 튜닝을 통한 데이터 핸들링 경험이 있습니다.
+          <br><br>
+          * <strong>FireBase</strong> : Firebase : Firebase 데이터베이스와 FCM을 통한 메시지 & 채팅 이벤트 처리 경험이 있습니다.
+          <br><br>
+
       - layout: left
         title: Ops
         description: | # this will include new lines to allow paragraphs
-          * <strong>AWS</strong> : CI/CD 구축을 위해 CodePipeline & CodeDeploy & RDS & S3를 사용했습니다.
-          * <strong>Github Actions</strong> : Githhub Actions가 AWS S3에 빌드 결과물을 전송하면 S3가 이를 CodeDeploy에게 전달하여 EC2에 배포 및 실행하는 플로우로 진행했습니다.
+          * <strong>AWS</strong> : CI/CD 구축을 위한 CodePipeline & CodeDeploy & RDS & S3를 사용하여 파이프라인을 구축했습니다.
+          <br><br>
+          * <strong>Github Actions</strong> : Githhub Actions가 AWS S3에 빌드 결과물을 전송하면 S3가 이를 CodeDeploy에게 전달하여 EC2에 배포 및 실행하는 플로우로 CI/CD를 구축하였습니다.
+          <br><br>
           * <strong>Docker</strong> : 컨테이너 이미지를 통한 버전관리와 Private Registry를 통해 이미지를 관리하고 Dockerfile을 빌드 하는 등 기본적인 사용법을 숙지하고 있습니다.
+          <br><br>
           * <strong>Kubernetes</strong> : 기본적인 클러스터 생성 (kubespray, kubeadm 2가지 방법) & Node/Pod의 Lifecycle 관리, 메트릭 서비스인 Prometheus와 데이터 시각화 툴인 Grapana를 연동하는 등 독학으로 실습한 경험이 있습니다. (실무적용 경험 X)
 
   - title: Projects # Title for the section
