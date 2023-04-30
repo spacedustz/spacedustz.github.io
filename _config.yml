@@ -194,9 +194,9 @@ content:
           
           Kotlin & Spring Boot 기반 반려 커뮤니티 서비스의 전반적인 백엔드 파트의 기능 개발을 담당하고 있습니다.
       - layout: top-middle
-        title: 코드스테이츠 백엔드 부트캠프 41기
+        title: 코드스테이츠
         caption: 2022.08 - 2023.02
-        sub_title: 자바 스프링 백엔드 부트캠프
+        sub_title: 백엔드 부트캠프 41기
         quote: | # this will include new lines to allow paragraphs
           Java를 활용해 MVC 패턴과 Spring Boot기반의 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 메인으로 학습하였습니다.
       - layout: top-middle
