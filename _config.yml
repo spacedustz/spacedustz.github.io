@@ -91,7 +91,7 @@ content:
           <br><br>
           * <strong>Java</strong> : 백엔드 부트캠프에서 첫 프로그래밍 언어로 학습하였습니다. 객체 지향적인 코드 작성을 위해 지속적인 학습중입니다.
           <br><br>
-          * <strong>Dart</string> : 크로스 플랫폼인 Flutter를 활용한 앱 개발에 활용하고 있습니다.
+          * <strong>Dart</strong> : Flutter를 활용한 크로스플랫폼 앱 개발에 사용하고 있습니다.
 
       - layout: left
         title: Tools
@@ -100,13 +100,7 @@ content:
           <br><br>
           * <strong>Git & Github</strong> : Git을 통한 협업과 코드리뷰, 형상관리 등 기본적인 사용법을 숙지하고 있습니다.
           <br><br>
-          * <strong>Slack</strong> : 어플리케이션 알림 서비스로 사용중입니다.
-          <br><br>
-          * <strong>Jira</strong> : 프로젝트 칸반보드로 사용중입니다.
-          <br><br>
-          * <strong>Notion</strong> : 각종 문서들을 노션에서 다루고 있습니다.
-          <br><br>
-          * <strong>NaverWorks & Workplace</strong> : Workplace를 통한 근태관리, Naver Works를 통한 사내 팀원들과의 메신저 역할로 사용중입니다.
+          * <strong>Slack, Jira, Notion</strong> : 어플리케이션 알림, 프로젝트 칸반, 각종 문서들을 다루는 툴들의 경험이 있습니다.
 
       - layout: left
         title: Frameworks
