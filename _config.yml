@@ -88,33 +88,34 @@ content:
         title: Languages
         description: | # this will include new lines to allow paragraphs
           * <strong>Kotlin</strong> : 현재 재직중인 곳에서 사용하고 있는 언어이며, 주력으로 사용하는 프로그래밍 언어입니다.
-          <br><br>
+          <br>
           * <strong>Java</strong> : 백엔드 부트캠프에서 첫 프로그래밍 언어로 학습하였습니다. 객체 지향적인 코드 작성을 위해 지속적인 학습중입니다.
-          <br><br>
-          * <strong>Dart</strong> : Flutter를 활용한 크로스플랫폼 앱 개발에 사용하고 있습니다.
+          <br>
+          * <strong>Dart</strong> : Flutter를 활용한 크로스플랫폼 앱 개발에 사용하고 있는 언어입니다.
+          <br>
 
       - layout: left
         title: Tools
         description: | # this will include new lines to allow paragraphs
           * <strong>Gradle</strong>, <strong>IntelliJ</strong> : IDE는 기본적으로 인텔리제이를 사용하며, Gradle 기반 프로젝트를 진행하였습니다. (Maven 등의 사용경험이 없습니다.)
-          <br><br>
+          <br>
           * <strong>Git & Github</strong> : Git을 통한 협업과 코드리뷰, 형상관리 등 기본적인 사용법을 숙지하고 있습니다.
-          <br><br>
+          <br>
           * <strong>Slack, Jira, Notion</strong> : 어플리케이션 알림, 프로젝트 칸반, 각종 문서들을 다루는 툴들의 경험이 있습니다.
+          <br>
 
       - layout: left
         title: Frameworks
         description: | # this will include new lines to allow paragraphs
-          * <strong>Spring</strong> : Spring Boot를 Base로 기능 개발에 사용합니다.
-            - <strong>Spring MVC & Spring Data JPA</strong> : 기본적인 MVC 패턴과 Spring Boot기반의 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 메인으로 지속적인 학습중입니다.
-            - <strong>Spring Security</strong> : Authentication & Authorization에 대한 이해와 토큰 기반 인증 방식인 JWT를 어플리케이션에 적용해보았습니다.
-            - <strong>Spring Cloud Config</strong> : 면접 준비를 위한 디스코드 봇을 만들던 중 민감 정보인 토큰 값의 로컬관리 외의 방법을 찾다가 구축을 해보게 되었습니다.
-            - <strong>Spring Cloud Gateway</strong> : 마이크로 서비스 호출에 대한 ACL 적용과 트래픽 라우팅 경험 학습을 위한 API Gateway를 간단하게 구현해보았습니다.
-            - <strong>OAuth2</strong> : Third-Party API에 사용자 인증 처리를 위임함으로써 서버의 리소스를 줄이며 간단한 인증 처리를 구현을 해보았습니다.
-          <br><br>
-          * <strong>FireBase</strong> : Firebase Cloud Message을 통한 메시지 & 채팅 이벤트 처리 경험이 있습니다.
-          <br><br>
+          * <strong>Spring</strong> : Spring Boot를 Base로 기능 개발에 사용합니다.<br>
+          * <strong>Spring MVC & Spring Data JPA</strong> : 기본적인 MVC 패턴과 Spring Boot기반의 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 메인으로 지속적인 학습중입니다.<br>
+          * <strong>Spring Security</strong> : Authentication & Authorization에 대한 이해와 토큰 기반 인증 방식인 JWT를 어플리케이션에 적용해보았습니다.<br>
+          * <strong>Spring Cloud Config</strong> : 면접 준비를 위한 디스코드 봇을 만들던 중 민감 정보인 토큰 값의 로컬관리 외의 방법을 찾다가 구축을 해보게 되었습니다.<br>
+          * <strong>Spring Cloud Gateway</strong> : 마이크로 서비스 호출에 대한 ACL 적용과 트래픽 라우팅 경험 학습을 위한 API Gateway를 간단하게 구현해보았습니다.<br>
+          * <strong>OAuth2</strong> : Third-Party API에 사용자 인증 처리를 위임함으로써 서버의 리소스를 줄이며 간단한 인증 처리를 구현을 해보았습니다.<br>
+          * <strong>FireBase</strong> : Firebase Cloud Message을 통한 메시지 & 채팅 이벤트 처리 경험이 있습니다.<br>
           * <strong>Flutter</strong> : 크로스 플랫폼 앱 개발에 사용중인 프레임워크입니다.
+          <br><br>
 
       - layout: left
         title: DataBase
@@ -127,16 +128,17 @@ content:
         title: Ops
         description: | # this will include new lines to allow paragraphs
           * <strong>AWS</strong> : EC2 & IAM & CodePipeline & CodeDeploy & RDS & S3 등의 서비스를 사용하여 CI/CD를 구축한 경험이 있습니다.
-          <br><br>
+          <br>
           * <strong>Github Actions</strong> : Githhub Actions가 AWS S3에 빌드 결과물을 전송하면 S3가 이를 CodeDeploy에게 전달하여 EC2에 배포 및 실행하는 플로우로 CI/CD를 구축하였습니다.
-          <br><br>
+          <br>
           * <strong>Docker</strong> : 컨테이너 이미지를 통한 버전관리와 Private Registry를 통해 이미지를 관리하고 Dockerfile을 빌드 하는 등 기본적인 사용법을 숙지하고 있습니다.
-          <br><br>
+          <br>
           * <strong>Kubernetes</strong> : 기본적인 클러스터 생성
             - kubespray, kubeadm 2가지 방법을 이용한 Master & Slaves 클러스터 생성 경험이 있습니다.
             - 로컬에 테스트 클러스터를 생성해 Node와 Pod의 Lifecycle 관리를 실습해보았습니다.
             - 쿠버네티스 대시보드를 구현해 SSL 인증서를 연동하는 등 독학으로 연습하며 다루어 보았습니다.
             - 메트릭 서비스인 Prometheus와 데이터 시각화 툴인 Grapana를 연동하는 등 독학으로 실습한 경험이 있습니다. (실무적용 경험 X)
+          <br><br>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
