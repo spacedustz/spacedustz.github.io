@@ -135,6 +135,8 @@ content:
           <br>
           * <strong>Docker</strong> : 컨테이너 이미지를 통한 버전관리와 Private Registry를 통해 이미지를 관리하고 Dockerfile을 빌드 하는 등 기본적인 사용법을 숙지하고 있습니다.
           <br>
+          * <strong>Jenkins</strong> : FreeStyle 과 Declarative Pipeline을 이용한 2가지 방법의 CI & CD를 구축하였습니다. 선언형 파이프라인 스크립트와 Shell 스크립트 등을 작성하여 배포하였습니다.
+          <br>
           * <strong>Kubernetes</strong> : 기본적인 클러스터 생성
             - kubespray, kubeadm 2가지 방법을 이용한 Master & Slaves 클러스터 생성 경험이 있습니다.
             - 로컬에 테스트 클러스터를 생성해 Node와 Pod의 Lifecycle 관리를 실습해보았습니다.
