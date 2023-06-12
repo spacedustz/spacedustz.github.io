@@ -197,7 +197,7 @@ content:
         quote: | # this will include new lines to allow paragraphs
           - Kotlin & Spring Boot 기반 반려 커뮤니티 서비스의 전반적인 백엔드 파트의 기능과 어드민 기능 등의 개발을 담당하고 있습니다.
           - NCP -> AWS Server Migration
-          - Jenkins + AWS CI/CD (Blue/Green) 구축
+          - Jenkins + AWS CI/CD (Blue/Green) 구축 (Declarative Pipeline 사용)
           - 어드민 기능 개발
           - 쿼리 튜닝 (QueryDSL)
           - 코드 리팩터링
