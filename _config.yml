@@ -195,10 +195,13 @@ content:
         caption: 2023.04 ~ 현재
         sub_title: 개발팀 백엔드 팀원
         quote: | # this will include new lines to allow paragraphs
-          지역 기반 반려인 소셜 디스커버리 & 돌봄 교환 서비스 기업으로 22년 초 강남지역에 첫 출시 후,<br>
-          현재 수도권 전체 지역에 서비스를 제공하고 있으며, 초기 토스 & 페이스북 보다 높은 리텐션을 보여주고 있는 어플리케이션입니다.<br><br>
-          
-          Kotlin & Spring Boot 기반 반려 커뮤니티 서비스의 전반적인 백엔드 파트의 기능과 어드민 기능 등의 개발을 담당하고 있습니다.
+          - Kotlin & Spring Boot 기반 반려 커뮤니티 서비스의 전반적인 백엔드 파트의 기능과 어드민 기능 등의 개발을 담당하고 있습니다.
+          - NCP -> AWS Server Migration
+          - Jenkins + AWS CI/CD (Blue/Green) 구축
+          - 어드민 기능 개발
+          - 쿼리 튜닝 (QueryDSL)
+          - 코드 리팩터링
+
       - layout: top-middle
         title: 코드스테이츠
         caption: 2022.08 - 2023.02
