@@ -123,7 +123,7 @@ content:
         title: DataBase
         description: | # this will include new lines to allow paragraphs
           * <strong>MySQL</strong> : RDBMS에 대해 기본적인 내용을 알고 있습니다.<br>
-          Spring Data JPA에서 QueryDSL을 이용한 JPQL 쿼리 튜닝을 통한 데이터 핸들링 경험이 있습니다.
+          Spring Data JPA에서 QueryDSL을 이용한 JPQL 동적 쿼리 작성과 튜닝을 통한 데이터 핸들링 경험이 있습니다.
           <br><br>
 
       - layout: left
@@ -137,9 +137,9 @@ content:
           <br>
           * <strong>Jenkins</strong> : FreeStyle 과 Declarative Pipeline을 이용한 2가지 방법의 CI & CD를 구축하였습니다. 선언형 파이프라인 스크립트와 Shell 스크립트 등을 작성하여 실무 백엔드 프로젝트를 배포하였습니다.
           <br>
-          * <strong>Server Migration</strong> : NCP -> AWS로 실무 프로덕트의 마이그레이션을 진행하였으며, EC2, RDS, S3, Elastic LoadBalancer, Jenkins, CloudFront(CDN) 등을 이용하여 실무 프로젝트들을 마이그레이션 하였습니다.
+          * <strong>Server Migration</strong> : NCP -> AWS로 실무 프로덕트의 마이그레이션을 진행하였으며, EC2, RDS, S3, Elastic LoadBalancer, Jenkins 등을 이용하여 실무 프로젝트들을 마이그레이션 하였습니다.
           <br>
-          * <string>Jenkins</strong> : Declarative Pipeline + Nginx를 이용한 CI 와 Shell Script를 작성해서 AWS EC2, RDS, ELB를 이용한 CD (Blue & Green Deployment)를 구축한 경험이 있습니다.
+          * <strong>Jenkins</strong> : Declarative Pipeline를 이용한 CI 와 Shell Script를 작성해서 AWS EC2, RDS, ELB + Nginx를 이용한 CD (Blue & Green Deployment)를 구축한 경험이 있습니다.
           <br>
           * <strong>Kubernetes</strong> : 기본적인 클러스터 생성
             - kubespray, kubeadm 2가지 방법을 이용한 Master & Slaves 클러스터 생성 경험이 있습니다.
@@ -192,7 +192,7 @@ content:
     content:
       - layout: top-middle
         title: 우주펫
-        caption: 2023.04 ~ 현재
+        caption: 2023.04.03 ~ 06.14
         sub_title: 개발팀 백엔드 팀원
         quote: | # this will include new lines to allow paragraphs
           - Kotlin & Spring Boot 기반 반려 커뮤니티 서비스의 전반적인 백엔드 파트의 기능과 어드민 기능 등의 개발을 담당하고 있습니다.<br>
