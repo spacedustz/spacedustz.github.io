@@ -196,9 +196,9 @@ content:
           - Kotlin & Spring Boot 기반 반려 커뮤니티 서비스의 전반적인 백엔드 파트의 기능과 어드민 기능 등의 개발을 담당하고 있습니다.<br>
           - NCP -> AWS Server Migration<br>
           - Jenkins + AWS CI/CD 구축 (Declarative Pipeline 사용)<br>
-          - 어드민 기능 개발 (버전 변경 API, 유저 키워드 조건 검색 기능, 위치 기반 조건 검색 기능, 근처 이웃 반려인 검색 기능)<br>
+          - 어드민 기능 개발 (버전 변경 API, 유저 키워드 조건 검색 기능, 위치 기반 조건 검색 기능, 근처 이웃 반려인 검색 기능 등)<br>
           - 쿼리 튜닝 (JPQL -> QueryDSL, QueryDSL 내 쿼리 변경)<br>
-          - 코드 리팩터링(서비스 클래스 정리 / 시간복잡도 개선)<br>
+          - 코드 리팩터링(서비스 클래스 정리 / 시간복잡도 개선, 에러코드 정리 등)<br>
 
       - layout: top-middle
         title: 코드스테이츠
